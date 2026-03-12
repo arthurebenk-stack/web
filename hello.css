@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background-color: bisque;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(194, 70, 122);
+}
+.topnav a {
+float: left;
+color: rgb(10, 10, 230);
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 18px;
+font-family: 'Times New Roman', Times, serif;
+}
+.topnav a :hover {
+    background-color: brown;
+    color: rgb(15, 214, 214);
+}
